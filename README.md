@@ -23,7 +23,7 @@ mining-robots/
 └── Relatório Sistemas Multiagente (1).pdf # Relatório explicativo do projeto
 
 
-## ▶️ Como Executar
+## Como Executar
 
 ### Pré-requisitos
 
