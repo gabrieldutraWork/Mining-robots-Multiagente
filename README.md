@@ -12,6 +12,7 @@ Foram utilizados conceitos como:
 
 ## Estrutura do Projeto
 
+```plaintext
 mining-robots/
 └── mining-robots/
     ├── builder.asl                       # Código do agente construtor
@@ -20,7 +21,7 @@ mining-robots/
     ├── build.gradle                      # Configuração do Gradle
     ├── settings.gradle                   # Configuração do Gradle
     └── logging.properties                # Configuração de logs
-
+```
 
 ## Como Executar
 
