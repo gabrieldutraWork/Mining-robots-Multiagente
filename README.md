@@ -14,13 +14,12 @@ Foram utilizados conceitos como:
 
 mining-robots/
 └── mining-robots/
-├── builder.asl # Código do agente construtor
-├── col.asl # Código do agente coletor
-├── resourceCollection.mas2j # Arquivo de configuração do sistema multiagente Jason
-├── build.gradle # Configuração do Gradle
-├── settings.gradle # Configuração do Gradle
-├── logging.properties # Configuração de logs
-└── Relatório Sistemas Multiagente (1).pdf # Relatório explicativo do projeto
+    ├── builder.asl                       # Código do agente construtor
+    ├── col.asl                           # Código do agente coletor
+    ├── resourceCollection.mas2j          # Configuração do sistema multiagente Jason
+    ├── build.gradle                      # Configuração do Gradle
+    ├── settings.gradle                   # Configuração do Gradle
+    └── logging.properties                # Configuração de logs
 
 
 ## Como Executar
